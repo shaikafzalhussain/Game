@@ -1,0 +1,6 @@
+{
+  "name": "FireStrike: Offline Royale",
+  "description": "An offline tactical battle royale and multiplayer shooter game inspired by Free Fire with AI tactical coach, 20-player bot matches, clash squad mode, and full PWA offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
